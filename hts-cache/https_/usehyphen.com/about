@@ -1,0 +1,1519 @@
+
+        <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+    <head><link
+rel="dns-prefetch" href="https://usehyphen.com/" crossorigin><link
+rel="preconnect" href="https://usehyphen.com/" crossorigin><meta
+charset="utf-8"><meta
+name="viewport" content="width=device-width,minimum-scale=1"><meta
+name="theme-color" content="#50e5b4"><link
+rel="apple-touch-icon" sizes="180x180" href="https://usehyphen.com/icons/apple-touch-icon.png"><link
+rel="icon" type="image/png" sizes="32x32" href="https://usehyphen.com/icons/favicon-32x32.png"><link
+rel="icon" type="image/png" sizes="16x16" href="https://usehyphen.com/icons/favicon-16x16.png"><link
+rel="manifest" href="https://usehyphen.com/manifest.json"><link
+rel="mask-icon" href="https://usehyphen.com/icons/safari-pinned-tab.svg" color="#50e6b4"><link
+rel="shortcut icon" href="https://usehyphen.com/favicon.ico"><meta
+name="msapplication-TileColor" content="#1cba93"><meta
+name="msapplication-config" content="https://usehyphen.com/browserconfig.xml"><meta
+name="theme-color" content="#50e6b4"><link
+rel="preload" href="/lottie/site-intro.min.json" as="fetch" crossorigin><link
+rel="preload" href="https://usehyphen.com/fonts/RoobertGX.woff2" as="font" type="font/woff2" crossorigin><style>*{box-sizing:border-box}body{min-height:var(--vh)}ul[class]{padding:0;list-style:none}a{text-decoration:none}button{font:inherit}@font-face{font-family:RoobertGX;font-weight:200 900;font-style:normal;src:url(/fonts/RoobertGX.woff2) format("woff2"),url(/fonts/RoobertGX.woff) format("woff")}body{font-family:RoobertGX,sans-serif;color:#3d6266;font-weight:400;font-size:1.25vw!important;font-feature-settings:"titl" on,"case" on,"ss01" on;letter-spacing:.01em;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility}@media (max-width:1440px){body{font-size:18px!important}}button{border-radius:0;font-family:RoobertGX,sans-serif;font-size:.9vw!important;font-weight:600;font-feature-settings:"titl" on,"case" on,"ss01" on;letter-spacing:.01em;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility}@media (max-width:1555.5555555556px){button{font-size:14px!important}}button{-webkit-appearance:none;-moz-appearance:none;appearance:none;border-radius:0}.h2,.h5,.heading{margin-top:0;margin-bottom:0;font-family:RoobertGX,sans-serif;font-weight:400;line-height:1.2em;color:#042326}.h2{font-size:5vw!important}@media (max-width:960px){.h2{font-size:48px!important}}.h5{font-size:14px!important;letter-spacing:.15em;text-transform:uppercase;color:#1cba93}.h5{font-weight:600}.large-text{font-size:1.67vw!important}@media (max-width:1077.8443113772px){.large-text{font-size:18px!important}}.h-dash{letter-spacing:-.15em}a:not(.button){display:inline-block;position:relative;color:#042326;line-height:1.6em}button{display:flex;align-items:center;margin:0;padding:0;border:0;text-align:center;font-size:14px;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:#042326}@media screen and (max-width:768px){.h2,.h5,.heading{line-height:1.1em}button{letter-spacing:.075em}}:root{box-sizing:border-box}*{box-sizing:inherit}body{width:100%;overflow-x:hidden;margin:0}@media screen and (max-width:767px){body{overflow-y:visible}}html{--vh:100vh}.site-intro{position:fixed;top:0;left:0;z-index:1000;width:100%;height:100vh;background-color:#042326;transform:translateZ(0)}.site-intro .c-intro-animation{display:flex;align-items:center;justify-content:center;position:absolute;top:0;left:0;width:100%;height:var(--vh)}body{max-height:var(--vh);overflow-y:hidden}.cover{z-index:999;height:var(--vh);background-color:#042326;opacity:1}.cover,.cover-content{position:fixed;top:0;left:0;width:100%}.cover-content{z-index:4;height:100vh;background-color:#000;opacity:0;visibility:hidden}body.loading:not(.is-device){height:var(--vh);overflow:hidden}#loco-scroll{background-color:#fff}img.asset{display:block;width:100%;object-fit:contain}.lazyPicture{overflow:hidden}.aspect-ratio,.lazyPicture{position:relative;display:block;width:100%}.aspect-ratio{padding-bottom:var(--aspect);background-color:#efefef}.aspect-ratio img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;vertical-align:middle}.b-full-image-copy{position:relative;display:flex;flex-wrap:wrap;margin-top:-1px;padding-left:7.14vw;padding-right:7.14vw}.b-full-image-copy .c-copy{display:flex;flex-wrap:wrap;padding-top:14.28vw;padding-bottom:7.14vw}.b-full-image-copy .sub-heading{width:100%;margin-bottom:24px;letter-spacing:.15em;color:#1cba93}.b-full-image-copy .heading{width:42.84vw}.b-full-image-copy .description{width:21.42vw;max-width:548px;margin-top:24px;margin-left:7.14vw;line-height:1.4em;color:#063b40}.b-full-image-copy .c-full-image{width:100%}.b-full-image-copy .asset,.b-full-image-copy .content-container{overflow:hidden}.b-full-image-copy.asset-border-radius .asset,.b-full-image-copy.asset-border-radius .content-container{border-radius:15px}.b-full-image-copy .aspect-ratio{padding-bottom:var(--aspect)}.b-full-image-copy.object-fit-cover .lazyPicture{background-color:#fff}.b-full-image-copy.object-fit-cover .asset{object-fit:cover}@media screen and (max-width:768px){.b-full-image-copy .c-copy{padding:28.56vw 7.14vw 14.28vw}.b-full-image-copy .description,.b-full-image-copy .heading{width:100%}.b-full-image-copy .description{margin-left:0;line-height:1.55em}.b-full-image-copy.asset-border-radius .content-container{border-radius:0}.b-full-image-copy .aspect-ratio,.b-full-image-copy.object-fit-cover .lazyPicture{background-color:transparent}.b-full-image-copy .asset{transform:scaleZ(1.01)}}.core-header{display:flex;justify-content:space-between;position:fixed;top:0;left:0;z-index:5;width:100%;min-height:72px}.core-logo-link{display:flex!important;align-items:center;justify-content:center;width:7.14vw;height:7.14vw;min-width:72px;min-height:72px;background-color:#063b40;transform:translateY(0)}.core-logo-link svg{width:40%;height:auto}.core-menu{position:relative;width:7.14vw;height:7.14vw;min-width:72px;min-height:72px;background-color:transparent;transform:translateY(0)}.core-menu-desktop,.core-menu-mobile{display:flex;align-items:center;justify-content:center;position:absolute;top:0;left:0;width:100%;height:100%}.core-menu-desktop svg,.core-menu-mobile svg{width:100%;min-width:36px;height:auto}.core-menu-desktop svg .dot,.core-menu-mobile svg .dot{transform-origin:center center}.core-menu-desktop svg .dot-1,.core-menu-desktop svg .dot-4,.core-menu-mobile svg .dot-1,.core-menu-mobile svg .dot-4{transform:scale(1) translate3d(-5px,0,0);opacity:0}.core-menu-desktop svg{max-width:44px}.core-menu-mobile svg{max-width:36px}@media screen and (min-width:1024px){.core-menu-mobile{display:none}}@media screen and (max-width:1023px){.core-menu-desktop{display:none}}@media screen and (max-width:768px){.core-header{min-height:68px}.core-logo-link,.core-menu{width:14.28vw;height:14.28vw;min-width:68px;min-height:68px}}.core-nav-container{display:none;height:var(--vh);overflow-x:hidden;overflow-y:scroll;-webkit-overflow-scrolling:touch}.core-nav-bg,.core-nav-container{position:fixed;top:0;left:0;width:100%}.core-nav-bg{z-index:0;height:100vh;background-color:#042326}.core-nav-header{display:flex;align-items:center;justify-content:space-between;position:relative;z-index:1;min-height:72px}.core-logo-open-link{position:relative;width:100%;height:7.14vw}.core-logo-open-desktop,.core-logo-open-mobile{display:flex;align-items:center;position:absolute;top:0;left:0;width:100%;height:100%;padding-left:3.57vw;padding-right:3.57vw}.core-menu-close{flex-shrink:0;position:relative;width:7.14vw;height:7.14vw;min-width:72px;min-height:72px;background-color:transparent}.core-menu-close svg{width:100%;max-width:44px;min-width:36px;height:auto;vertical-align:middle}.core-menu-close-desktop,.core-menu-close-mobile{display:flex;align-items:center;justify-content:center;position:absolute;top:0;left:0;width:100%;height:100%}.core-menu-close-desktop svg,.core-menu-close-mobile svg{width:100%;max-width:44px;min-width:36px;height:auto}.core-nav{display:flex;align-items:center;position:relative;z-index:1;min-height:561px;padding-left:7.14vw}.core-nav .nav-list{display:flex;flex-wrap:wrap;margin-top:0;margin-bottom:0}.core-nav .nav-list .nav-item{width:50%}.core-nav .nav-list .nav-item:not(.last-row){margin-bottom:92px}.core-nav .nav-list .nav-item a{display:flex;align-items:center}.core-nav .nav-list .nav-item-number{width:7.14vw;font-size:14px;font-weight:500;letter-spacing:.1em;line-height:1em;color:#3d6266}.core-nav .nav-list-social{flex-shrink:0;display:flex;width:100%;margin-top:0;margin-bottom:0}.core-nav .nav-list-social .nav-item a{line-height:0}.core-nav a{font-size:5vw!important;color:#fff;line-height:1em}@media (max-width:960px){.core-nav a{font-size:48px!important}}@media screen and (min-width:1024px){.core-logo-open-desktop svg{height:40%}.core-logo-open-mobile,.core-menu-close-mobile{display:none}.core-nav{height:calc(100% - 7.14vw);padding-bottom:7.14vw}.core-nav .nav-list-social{flex-wrap:wrap;align-content:space-evenly;justify-content:center;width:7.14vw}.core-nav .nav-list-social .nav-item{width:100%;text-align:center}.core-nav .nav-list-social .nav-item:not(:last-of-type){margin-bottom:92px}}@media screen and (max-width:1023px){.core-logo-open-desktop,.core-menu-close-desktop{display:none}.core-logo-open-desktop,.core-logo-open-mobile{padding-left:7.14vw;padding-right:7.14vw}.core-nav{flex-wrap:wrap;align-content:space-evenly;height:calc(100% - 14.28vw);padding-left:7.14vw}.core-nav .nav-list .nav-item{width:100%;order:var(--order)}.core-nav .nav-list .nav-item:not(:last-of-type){margin-bottom:24px}.core-nav .nav-list .nav-item-number{width:14.28vw}.core-nav .nav-list-social{padding-left:14.28vw}.core-nav .nav-list-social .nav-item{display:flex;align-items:center;justify-content:center;width:32px;height:32px}.core-nav .nav-list-social .nav-item:not(:last-of-type){margin-right:24px}}@media screen and (max-width:767px){.core-menu-close-desktop svg,.core-menu-close-mobile svg{width:36px}.core-menu-close{width:14.28vw;height:14.28vw}}@media screen and (min-width:861px){.core-footer .core-footer-logo-mobile{display:none}}</style><link
+rel="preload" href="/css/site.css?id=9791a6218ec110441184" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link
+rel="stylesheet" href="/css/site.css?id=9791a6218ec110441184"></noscript> <script>!function(n){"use strict";n.loadCSS||(n.loadCSS=function(){});var o=loadCSS.relpreload={};if(o.support=function(){var e;try{e=n.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),o.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},o.poly=function(){if(!o.support())for(var t=n.document.getElementsByTagName("link"),e=0;e<t.length;e++){var a=t[e];"preload"!==a.rel||"style"!==a.getAttribute("as")||a.getAttribute("data-loadcss")||(a.setAttribute("data-loadcss",!0),o.bindMediaToggle(a))}},!o.support()){o.poly();var t=n.setInterval(o.poly,500);n.addEventListener?n.addEventListener("load",function(){o.poly(),n.clearInterval(t)}):n.attachEvent&&n.attachEvent("onload",function(){o.poly(),n.clearInterval(t)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:n.loadCSS=loadCSS}("undefined"!=typeof global?global:this);</script><title>About</title>
+<script>dataLayer = [];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFXM74G');
+</script><meta name="generator" content="SEOmatic">
+<meta name="description" content="Hyphen is an automated makeline designed to increase efficiency in the kitchen with less errors and lower costs.">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="none">
+<meta content="en_US" property="og:locale">
+<meta content="Hyphen" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://usehyphen.com/about" property="og:url">
+<meta content="About" property="og:title">
+<meta content="Hyphen is an automated makeline designed to increase efficiency in the kitchen with less errors and lower costs." property="og:description">
+<meta content="https://usehyphen.com/assets/imager/images/3885/social_share_cover_v3_a6c5141cc54bf13eb3cff9f60a7e5c1b.png?mtime=1628686535" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@gethyphen">
+<meta name="twitter:creator" content="@gethyphen">
+<meta name="twitter:title" content="About">
+<meta name="twitter:description" content="Hyphen is an automated makeline designed to increase efficiency in the kitchen with less errors and lower costs.">
+<meta name="twitter:image" content="https://usehyphen.com/assets/imager/images/3885/social_share_cover_v3_7bb39d210ad10be8914e2b58f80f16bb.png?mtime=1628686535">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<link href="https://usehyphen.com" rel="home">
+<link type="text/plain" href="https://usehyphen.com/humans.txt" rel="author"></head>
+
+    <body class="first-load loading "><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFXM74G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+        
+            <div class="site-intro">
+            <div class="c-intro-animation"></div>
+        </div>
+    
+    <div class="cover"></div>
+
+    <div id="loco-scroll" style="min-height: 100vh;">
+
+        
+    
+<header class="core-header">
+
+	<a class="core-logo-link override" href="https://usehyphen.com/#"  aria-label="Home">
+        <svg width="48" height="56" viewBox="0 0 48 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M39.6 30.96V55.9999H48V35.76C48 32.64 46.32 30.96 43.2 30.96H39.6ZM39.6 23.8399H43.2C46.32 23.8399 48 22.1599 48 19.0399V0H39.6V23.8399ZM8.4 30.96H4.8C1.68 30.96 0 32.64 0 35.76V55.9999H8.4V30.96ZM8.4 23.8399V0H0V19.0399C0 22.1599 1.68 23.8399 4.8 23.8399H8.4ZM39.84 23.5999H8.16V31.2H39.84V23.5999Z" fill="white"/>
+</svg>
+	</a>
+
+    
+        <button class="core-menu override" aria-label="Menu">
+            <div class="core-menu-desktop">
+                <svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg"><path class="box" d="M.5 19.7c0-6.7206 0-10.081 1.308-12.6479A12 12 0 017.052 1.808C9.6191.5 12.9794.5 19.7.5h5.6c6.7206 0 10.0809 0 12.6479 1.308a12.0004 12.0004 0 015.2442 5.2441C44.5 9.6191 44.5 12.9794 44.5 19.7v5.6c0 6.7206 0 10.0809-1.3079 12.6479a12.0007 12.0007 0 01-5.2442 5.2442C35.3809 44.5 32.0206 44.5 25.3 44.5h-5.6c-6.7206 0-10.081 0-12.6479-1.3079a12.0004 12.0004 0 01-5.2442-5.2442C.5 35.3809.5 32.0206.5 25.3v-5.6z" fill="#fff"/><path class="dot dot-1" d="M19.5 17.5c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-2" d="M19.5 17.5c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-3" d="M29.5 17.5c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-4" d="M19.5 27.5c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-5" d="M19.5 27.5c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-6" d="M29.5 27.5c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/></svg>            </div>
+            <div class="core-menu-mobile">
+                <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path class="box" d="M0 16c0-5.6005 0-8.4008 1.09-10.54a10 10 0 014.37-4.37C7.5993 0 10.3996 0 16 0h4c5.6005 0 8.4008 0 10.5399 1.09a10.0006 10.0006 0 014.3702 4.37C36 7.5993 36 10.3996 36 16v4c0 5.6005 0 8.4008-1.0899 10.5399a10.001 10.001 0 01-4.3702 4.3702C28.4008 36 25.6005 36 20 36h-4c-5.6005 0-8.4008 0-10.54-1.0899a10.0006 10.0006 0 01-4.37-4.3702C0 28.4008 0 25.6005 0 20v-4z" fill="#fff"/><path class="dot dot-1" d="M15 13c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-2" d="M15 13c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-3" d="M25 13c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-4" d="M15 23c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-5" d="M15 23c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/><path class="dot dot-6" d="M25 23c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2z" fill="#063B40"/></svg>            </div>
+        </button>
+
+	    
+<div class="core-nav-container">
+
+    <header class="core-nav-header">
+
+        <a class="core-logo-open-link override" href="https://usehyphen.com/#"  aria-label="Home">
+            <span class="core-logo-open-desktop">
+                <svg width="150" height="24" viewBox="0 0 150 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M145.714 0V18.7886L132.377 0H128.572V24H132V5.21143L145.337 24H149.143V0H145.714ZM93.0858 13.2686V24H96.6858V15.3257C96.6858 13.9886 95.9658 13.2686 94.6287 13.2686H93.0858ZM93.0858 10.2171H94.6287C95.9658 10.2171 96.6858 9.49714 96.6858 8.16V0H93.0858V10.2171ZM79.7144 13.2686H78.1715C76.8344 13.2686 76.1144 13.9886 76.1144 15.3257V24H79.7144V13.2686ZM79.7144 10.2171V0H76.1144V8.16C76.1144 9.49714 76.8344 10.2171 78.1715 10.2171H79.7144ZM93.1887 10.1143H79.6115V13.3714H93.1887V10.1143ZM16.9714 13.2686V24H20.5715V15.3257C20.5715 13.9886 19.8515 13.2686 18.5143 13.2686H16.9714ZM16.9714 10.2171H18.5143C19.8515 10.2171 20.5715 9.49714 20.5715 8.16V0H16.9714V10.2171ZM3.6 13.2686H2.05715C0.720001 13.2686 0 13.9886 0 15.3257V24H3.6V13.2686ZM3.6 10.2171V0H0V8.16C0 9.49714 0.720001 10.2171 2.05715 10.2171H3.6ZM17.0743 10.1143H3.49715V13.3714H17.0743V10.1143ZM107.486 13.3714H120.514V10.1143H107.486V3.25714H121.714V0H104.057V24H121.886V20.7429H107.486V13.3714ZM62.0915 11.8286H54.8572V3.25714H62.0915C64.8001 3.25714 66.6858 5.00571 66.6858 7.57714C66.6858 10.1143 64.8001 11.8286 62.0915 11.8286ZM62.0915 0H51.4286V24H54.8572V15.0857H62.0915C66.8572 15.0857 70.1144 12.0343 70.1144 7.57714C70.1144 3.08571 66.8572 0 62.0915 0ZM36 11.6229L29.0057 0H25.0286L34.2858 14.9143V24H37.7143V14.9143L46.9715 0H42.9943L36 11.6229Z" fill="white"/>
+</svg>
+            </span>
+            <span class="core-logo-open-mobile">
+                <svg width="112" height="18" viewBox="0 0 112 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M109.286 0V14.0914L99.283 0H96.4287V18H99.0001V3.90857L109.003 18H111.857V0H109.286ZM69.8144 9.95143V18H72.5144V11.4943C72.5144 10.4914 71.9744 9.95143 70.9715 9.95143H69.8144ZM69.8144 7.66286H70.9715C71.9744 7.66286 72.5144 7.12286 72.5144 6.12V0H69.8144V7.66286ZM59.7858 9.95143H58.6286C57.6258 9.95143 57.0858 10.4914 57.0858 11.4943V18H59.7858V9.95143ZM59.7858 7.66286V0H57.0858V6.12C57.0858 7.12286 57.6258 7.66286 58.6286 7.66286H59.7858ZM69.8915 7.58571H59.7086V10.0286H69.8915V7.58571ZM12.7286 9.95143V18H15.4286V11.4943C15.4286 10.4914 14.8886 9.95143 13.8857 9.95143H12.7286ZM12.7286 7.66286H13.8857C14.8886 7.66286 15.4286 7.12286 15.4286 6.12V0H12.7286V7.66286ZM2.7 9.95143H1.54286C0.540001 9.95143 0 10.4914 0 11.4943V18H2.7V9.95143ZM2.7 7.66286V0H0V6.12C0 7.12286 0.540001 7.66286 1.54286 7.66286H2.7ZM12.8057 7.58571H2.62286V10.0286H12.8057V7.58571ZM80.6144 10.0286H90.3858V7.58571H80.6144V2.44286H91.2858V0H78.0429V18H91.4144V15.5571H80.6144V10.0286ZM46.5686 8.87143H41.1429V2.44286H46.5686C48.6001 2.44286 50.0143 3.75429 50.0143 5.68286C50.0143 7.58571 48.6001 8.87143 46.5686 8.87143ZM46.5686 0H38.5715V18H41.1429V11.3143H46.5686C50.1429 11.3143 52.5858 9.02571 52.5858 5.68286C52.5858 2.31429 50.1429 0 46.5686 0ZM27 8.71714L21.7543 0H18.7715L25.7143 11.1857V18H28.2857V11.1857L35.2286 0H32.2458L27 8.71714Z" fill="white"/>
+</svg>
+            </span>
+        </a>
+
+        <button class="core-menu-close override" aria-label="Menu">
+            <div class="core-menu-close-desktop">
+                <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg"><path id="menu-close-desktop-bg" d="M0 19.2C0 12.4794 0 9.119 1.308 6.5521A12 12 0 016.552 1.308C9.1191 0 12.4794 0 19.2 0h5.6c6.7206 0 10.0809 0 12.6479 1.308a12.0004 12.0004 0 015.2442 5.2441C44 9.1191 44 12.4794 44 19.2v5.6c0 6.7206 0 10.0809-1.3079 12.6479a12.0007 12.0007 0 01-5.2442 5.2442C34.8809 44 31.5206 44 24.8 44h-5.6c-6.7206 0-10.081 0-12.6479-1.3079a12.0004 12.0004 0 01-5.2442-5.2442C0 34.8809 0 31.5206 0 24.8v-5.6z" fill="#063B40"/><path id="menu-close-desktop-x" d="M29 16.41L27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22 29 16.41z" fill="#fff"/></svg>            </div>
+            <div class="core-menu-close-mobile">
+                <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path id="menu-close-mobile-bg" d="M0 16c0-5.6005 0-8.4008 1.09-10.54a10 10 0 014.37-4.37C7.5993 0 10.3996 0 16 0h4c5.6005 0 8.4008 0 10.5399 1.09a10.0006 10.0006 0 014.3702 4.37C36 7.5993 36 10.3996 36 16v4c0 5.6005 0 8.4008-1.0899 10.5399a10.001 10.001 0 01-4.3702 4.3702C28.4008 36 25.6005 36 20 36h-4c-5.6005 0-8.4008 0-10.54-1.0899a10.0006 10.0006 0 01-4.37-4.3702C0 28.4008 0 25.6005 0 20v-4z" fill="#063B40"/><path id="menu-close-mobile-x" d="M25 12.41L23.59 11 18 16.59 12.41 11 11 12.41 16.59 18 11 23.59 12.41 25 18 19.41 23.59 25 25 23.59 19.41 18 25 12.41z" fill="#fff"/></svg>            </div>
+        </button>
+
+    </header>
+
+    <nav class="core-nav">
+
+        <ul class="nav-list">
+
+            
+            
+                                                                                                                
+                <li class="nav-item col-1 " style="--order: 1;">
+                                            <a class="override" href="https://usehyphen.com/#makeline">
+                            <span class="nav-item-number">01 &mdash;</span>
+                            Makeline
+                        </a>
+                                    </li>
+                
+            
+                                                                                                                
+                <li class="nav-item col-2 " style="--order: 4;">
+                                            <a class="override" href="https://usehyphen.com/about#careers">
+                            <span class="nav-item-number">04 &mdash;</span>
+                            Careers
+                        </a>
+                                    </li>
+                
+            
+                                                                                                                
+                <li class="nav-item col-1 " style="--order: 2;">
+                                            <a class="override" href="https://usehyphen.com/specs#">
+                            <span class="nav-item-number">02 &mdash;</span>
+                            Specs
+                        </a>
+                                    </li>
+                
+            
+                                                                                                                
+                <li class="nav-item col-2 " style="--order: 5;">
+                                            <a class="override" href="https://hyphen.docsend.com/view/s/wqe7ffzj927qsh9g" data-router-disabled>
+                            <span class="nav-item-number">05 &mdash;</span>
+                            Media Kit
+                        </a>
+                                    </li>
+                
+            
+                                                                                                                
+                <li class="nav-item col-1 last-row" style="--order: 3;">
+                                            <a class="override" href="https://usehyphen.com/about#">
+                            <span class="nav-item-number">03 &mdash;</span>
+                            About
+                        </a>
+                                    </li>
+                
+            
+                                                                                                                
+                <li class="nav-item col-2 last-row" style="--order: 6;">
+                                            <a class="override" href="https://usehyphen.com/#contact">
+                            <span class="nav-item-number">06 &mdash;</span>
+                            Contact
+                        </a>
+                                    </li>
+                
+            
+        </ul>
+
+        <ul class="nav-list-social">
+
+            <li class="nav-item col-3">
+                <a class="override" href="https://medium.com/usehyphen" aria-label="Visit us on Medium" title="Medium" target="_blank" rel="noopener">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.7 11.6996c.1.1.2.3.2.5v7c.1.3 0 .5-.2.7l-1.7 2v.3h4.7v-.3l-1.7-2c-.1-.2-.2-.4-.2-.7v-6.1l4.2 9.1h.4l3.6-9.1v7.3c0 .2 0 .3-.1.4l-1.3 1.3v.3h6.3v-.3l-1.2-1.2c-.1-.1-.1-.3-.1-.4v-9c-.1-.2 0-.3.1-.4l1.3-1.2v-.3h-4.4l-3.2 7.9-3.6-7.9H8.2v.3l1.5 1.8z" fill="#fff"/></svg>                </a>
+            </li>
+            
+            <li class="nav-item col-3">
+                <a class="override" href="https://twitter.com/gethyphen" aria-label="Visit us on Twitter" title="Twitter" target="_blank" rel="noopener">
+                    <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M22.1 11.5c.7-.1 1.3-.2 1.9-.5-.4.7-1 1.3-1.7 1.7.2 4.7-3.2 9.8-9.3 9.8-1.8 0-3.5-.6-5-1.5 1.7.2 3.5-.3 4.7-1.2-1.5 0-2.7-1-3.1-2.3.5.1 1 0 1.5-.1-1.5-.4-2.6-1.8-2.6-3.3.5.2 1 .4 1.5.4-1.4-1-1.9-2.9-1-4.4 1.7 2 4.1 3.3 6.8 3.4-.5-2 1.1-4 3.2-4 .9 0 1.8.4 2.4 1 .8-.2 1.5-.4 2.1-.8-.2.8-.7 1.4-1.4 1.8z" fill="#fff"/></svg>                </a>
+            </li>
+            
+            <li class="nav-item col-3">
+                <a class="override" href="https://www.linkedin.com/company/use-hyphen/" aria-label="Visit us on LinkedIn" title="LinkedIn" target="_blank" rel="noopener">
+                    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.2 22.2002v-10.7h3.4v10.7H8.2z" fill="#fff"/><path d="M9.9 10.0002c-1.1 0-1.9-.8-1.9-1.9 0-1.1.9-1.9 1.9-1.9 1.1 0 1.9.8 1.9 1.9 0 1.1-.8 1.9-1.9 1.9z" fill="#fff"/><path d="M23.8 22.2002h-3.2v-5.8c0-1.7-.7-2.2-1.7-2.2s-2 .8-2 2.3v5.7h-3.4v-10.7h3.2v1.5c.3-.7 1.5-1.8 3.2-1.8 1.9 0 3.9 1.1 3.9 4.4v6.6z" fill="#fff"/></svg>                </a>
+            </li>
+
+        </ul>
+    </nav>
+
+
+    <div class="core-nav-bg"></div>
+
+</div>        
+    
+</header>
+
+        <div class="cover-content"></div>
+
+        <main data-router-wrapper>
+            
+    			    		
+        <article data-router-view="about" data-handle="about">
+
+            <div class="about-container page-container" data-scroll-section>
+
+                
+                
+                
+
+
+
+<div data-nav-scroll-name="" id="b-full-image-copy-1203" class="b-full-image-copy object-fit-cover asset-border-radius imageBottom bg-type-solid text-color-dark  is-first " style="background: linear-gradient(180deg, #ffffff 0%, #ffffff 100%);" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+    <div class="c-copy">
+        <div class="sub-heading h5 js-revealText">
+            Company <span class="h-dash">&mdash;&mdash;&mdash;</span>
+        </div>
+        <div class="heading h2 js-splitLines">
+            We help restaurants thrive
+        </div>
+        <div class="description large-text js-revealText">
+            We bring advanced technology to familiar kitchen tools making it easier for busy kitchens to adapt to&nbsp;change.
+        </div>
+    </div>
+
+    
+        
+                    <div class="c-full-image">
+                <div class="content-container">
+                    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 56.244411326379%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/3577/about_hero_v2_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/3577/about_hero_v2_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/3577/about_hero_v2_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/3577/about_hero_v2_7e2310f9f2d149843122e3a2929676cc.jpg 1440w, /assets/imager/images/about/3577/about_hero_v2_98de45b609a930410ada4a576d6954c0.jpg 1680w"  sizes="100vw" alt="About hero v2" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                </div>
+            </div>
+        
+        
+    
+</div>
+
+                
+                                                
+                                    <div class="about-info ">
+
+                        <div class="about-info-col about-info-col-1">
+                            It’s human nature to adapt our everyday tools to meet our evolving needs. We believe in building tools with real-life impact — which means designing around people and for people. Hyphen is the next logical step for busy kitchens: an enhanced, flexible, yet industrial-grade makeline built for the <span class="numbers">21</span><sup class="ordinal">st</sup>&nbsp;century.
+                        </div>
+
+                        <div class="about-info-col about-info-col-2">
+                            As the restaurant experience continues to shift, we see myriad ways to build more efficient kitchens and kitchen teams. We see Hyphen as a&nbsp;tool that will unlock pos­si­bil­i­ties for restau­ran­teurs — allowing them to focus on the intangible ingredients of the experience: hospitality, employee sat­is­fac­tion, and culinary&nbsp;ingenuity.
+                        </div>
+
+                    </div>
+                
+                
+                                                                
+                                                                    
+
+                                    <div data-nav-scroll-name="" class="about-leadership  people-many">
+
+                        <div class="sub-heading h5" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealText">
+                            <div class="js-revealText">
+                                Leadership <span class="h-dash">&mdash;&mdash;&mdash;</span>
+                            </div>
+                        </div>
+
+                        <div class="people">
+
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+            
+                
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/1059/Stephen-Klein_2021-05-20-200745_yonl_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/1059/Stephen-Klein_2021-05-20-200745_yonl_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/1059/Stephen-Klein_2021-05-20-200745_yonl_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/1059/Stephen-Klein_2021-05-20-200745_yonl_1a58980f77ae6d8c6a1e26c40e92a05d.jpg 1024w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Stephen Klein" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Stephen Klein
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                Co-Founder &amp; CEO
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Stephen was an early operator at Instacart where he launched, scaled, and managed new markets across the country. In <span class="numbers">2016</span> he served as the <span class="caps">VP</span> of Operations at Café X, a&nbsp;robotic coffee bar company, where he got Café X&nbsp;approved as the first robotic restaurant in the state of&nbsp;California.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+            
+                
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/1060/Daniel-Fukuba_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/1060/Daniel-Fukuba_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/1060/Daniel-Fukuba_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/1060/Daniel-Fukuba_1a58980f77ae6d8c6a1e26c40e92a05d.jpg 1024w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Daniel Fukuba" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Daniel Fukuba
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                Co-Founder &amp; CTO
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Daniel served as the engineering manager at <span class="caps">L<span class="numbers">2</span>F</span>, a&nbsp;robotic automation integrator, where he oversaw the engineering and com­mis­sion­ing of factory robotics and automation for SpaceX, Tesla, Applied Materials, and Blommer&nbsp;Chocolate.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+            
+                
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/1835/Joey-Weinmann_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/1835/Joey-Weinmann_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/1835/Joey-Weinmann_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/1835/Joey-Weinmann_1a58980f77ae6d8c6a1e26c40e92a05d.jpg 1024w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Joey Weinmann" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Joey Weinmann
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                VP, Operations
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Joey was an early executive at SpaceX where he managed advanced man­u­fac­tur­ing and production steering. After SpaceX, Joey became the Head of Man­u­fac­tur­ing <span class="amp">&amp;</span>&nbsp;Ops at an AgTech startup where he built and maintained hydroponic TerraFarms. Most recently, he was the <span class="caps">VP</span> of Ops at Singer Vehicle&nbsp;Design.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+            
+                
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/2505/Mark_Manfrey_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/2505/Mark_Manfrey_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/2505/Mark_Manfrey_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/2505/Mark_Manfrey_1a58980f77ae6d8c6a1e26c40e92a05d.jpg 1024w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Mark Manfrey" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Mark Manfrey
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                Senior Product Designer
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Mark went to school for Industrial Design, but began his career in cinematic visual effects — doing work for The Matrix and Shrek before turning to product design. He led design innovation at Apple’s Special Projects Group and most recently did design work for Facebook’s&nbsp;Workplace.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+            
+                
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/2506/Abram_Simon_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/2506/Abram_Simon_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/2506/Abram_Simon_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/2506/Abram_Simon_1a58980f77ae6d8c6a1e26c40e92a05d.jpg 1024w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Abram Simon" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Abram Simon
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                VP, Software Engineering
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Abram’s past life runs parallel with Hyphen’s. He started out as a&nbsp;software engineer, but traded his keyboard for a&nbsp;kitchen, and started a&nbsp;restaurant called House of Joe. After a&nbsp;few years in the humbling restaurant industry, he went back to software and did work for <span class="caps">NASA</span>. Since then, he’s built engineering teams in IoT at companies such as Samsara and an ag-tech company called&nbsp;Granular.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/3447/Lucy-Voigt_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/3447/Lucy-Voigt_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/3447/Lucy-Voigt_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/3447/Lucy-Voigt_7e2310f9f2d149843122e3a2929676cc.jpg 1440w, /assets/imager/images/about/people/3447/Lucy-Voigt_98de45b609a930410ada4a576d6954c0.jpg 1680w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Lucy Voigt" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Lucy Voigt
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                Director, Culinary Innovation
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Lucy has been in the foodservice industry for nearly a&nbsp;decade, working as a&nbsp;director for a&nbsp;Los Angeles based restaurant group called All’Acqua. After that she led sales and ops at Moon Juice, creating an elevated customer experience and scaling that to a&nbsp;national audience. Before Hyphen, Lucy was an early team member at Ono Food Co., where she helped introduce a&nbsp;first of its kind robotic food truck to the&nbsp;world.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/3445/Carter-Branch_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/3445/Carter-Branch_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/3445/Carter-Branch_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/3445/Carter-Branch_7e2310f9f2d149843122e3a2929676cc.jpg 1440w, /assets/imager/images/about/people/3445/Carter-Branch_98de45b609a930410ada4a576d6954c0.jpg 1680w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Carter Branch" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Carter Branch
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                Director, Partnerships
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Carter was an early team member at Tapingo (Acq. by GrubHub) where he scaled user acquisition on <span class="numbers">100</span>+ campuses, he then helped Happy Returns (Acq. PayPal) build their physical location network from dozens to hundreds. Before Hyphen, he was leading growth projects at Sweetgreen focused on enterprise part­ner­ships, new revenue oppor­tu­ni­ties, and testing new kitchen&nbsp;formats.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                                                            
+                                                                                                                                
+                                                                    <div class="person" data-scroll data-scroll-offset="7.14%" data-scroll-call="playRevealImage, playSplitText, playRevealText">
+
+                                        <div class="photo">
+                                            
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+            
+            
+            
+        
+    
+        
+
+
+
+
+<picture class="lazyPicture js-revealImageLR">
+
+    	    
+	<span class="aspect-ratio" style="--aspect: 100%;" data-scroll   >
+
+		
+			
+			<img class="asset  lazyload "   data-srcset="/assets/imager/images/about/people/3446/Jordan-Buettner_3b775be3630d5ad017a9b286461442ad.jpg 375w, /assets/imager/images/about/people/3446/Jordan-Buettner_c85caf2b214c8bd6e09dc9b9f86188d7.jpg 768w, /assets/imager/images/about/people/3446/Jordan-Buettner_66386012852979bf6f60b2d90a344eff.jpg 1024w, /assets/imager/images/about/people/3446/Jordan-Buettner_7e2310f9f2d149843122e3a2929676cc.jpg 1440w, /assets/imager/images/about/people/3446/Jordan-Buettner_98de45b609a930410ada4a576d6954c0.jpg 1680w"  sizes="(max-width: 1023px) 50vw, 33.33vw" alt="Jordan Buettner" style="object-position: 50% 50%;" >
+
+		
+	</span>
+
+</picture>
+                                        </div>
+
+                                        <div class="person-info">
+
+                                            <div class="full-name h4 js-splitLines">
+                                                Jordan Buettner
+                                            </div>
+
+                                            <div class="job-title h5 js-revealText">
+                                                Director, Strategy &amp; Operations
+                                            </div>
+
+                                            <div class="biography js-revealText">
+                                                Jordan spent a&nbsp;number of years at Uber where he held multiple roles in both product and operations. Being drawn toward new innovation, he joined Uber’s early New Mobilities product team, helping scale market growth and expansion for bike and scooter share products. Most recently, Jordan led research + development projects for Sweetgreen — leveraging technology to improve restaurant operations and customer&nbsp;experience.
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                
+                            
+                        </div>
+
+                    </div>
+                
+                
+                                                                
+                <div data-nav-scroll-name="careers" class="about-careers">
+
+                    <div class="c-copy" data-scroll data-scroll-offset="7.14%" data-scroll-call="playSplitText, playRevealText">
+                        <div class="sub-heading h5 js-revealText">
+                            Careers <span class="h-dash">&mdash;&mdash;&mdash;</span>
+                        </div>
+
+                        <div class="description h3 js-splitLines">
+                            At Hyphen our mission is to make operating a&nbsp;food business more profitable and efficient. Join us as the restaurant experience continues to shift, and help us build better tools to unlock pos­si­bil­i­ties for restauranteurs.
+                        </div>
+                    </div>
+
+                    
+                    <a class="button btn-arrow h5" href="https://jobs.lever.co/usehyphen" target="_blank" rel="noopener">
+                                                    See all open positions
+                                            </a>
+                </div>
+
+                
+                                                                                                                                
+                
+            </div>
+
+            <div class="about-modal">
+
+                <div class="modal-content">
+
+                    <button class="btn-modal-close">
+                        <div class="icon-close-desktop">
+                            <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 19.2C0 12.4794 0 9.119 1.308 6.5521A12 12 0 016.552 1.308C9.1191 0 12.4794 0 19.2 0h5.6c6.7206 0 10.0809 0 12.6479 1.308a12.0004 12.0004 0 015.2442 5.2441C44 9.1191 44 12.4794 44 19.2v5.6c0 6.7206 0 10.0809-1.3079 12.6479a12.0007 12.0007 0 01-5.2442 5.2442C34.8809 44 31.5206 44 24.8 44h-5.6c-6.7206 0-10.081 0-12.6479-1.3079a12.0004 12.0004 0 01-5.2442-5.2442C0 34.8809 0 31.5206 0 24.8v-5.6z" fill="#fff"/><path class="lines" d="M29 16.41L27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22 29 16.41z" fill="#063B40"/></svg>                        </div>
+                        <div class="icon-close-mobile">
+                            <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 16c0-5.6005 0-8.4008 1.09-10.54a10 10 0 014.37-4.37C7.5993 0 10.3996 0 16 0h4c5.6005 0 8.4008 0 10.5399 1.09a10.0006 10.0006 0 014.3702 4.37C36 7.5993 36 10.3996 36 16v4c0 5.6005 0 8.4008-1.0899 10.5399a10.001 10.001 0 01-4.3702 4.3702C28.4008 36 25.6005 36 20 36h-4c-5.6005 0-8.4008 0-10.54-1.0899a10.0006 10.0006 0 01-4.37-4.3702C0 28.4008 0 25.6005 0 20v-4z" fill="#fff"/><path class="lines" d="M25 12.41L23.59 11 18 16.59 12.41 11 11 12.41 16.59 18 11 23.59 12.41 25 18 19.41 23.59 25 25 23.59 19.41 18 25 12.41z" fill="#063B40"/></svg>                        </div>
+                    </button>
+
+                    
+                    
+                        
+                                                                                                                                            
+                                <div class="modal-content-item" data-modal-id="1150">
+
+                                    <div class="job-title h3">
+                                        Senior Controls&nbsp;Engineer
+                                    </div>
+
+                                    
+                                                                            <div class="job-description">
+                                            <h4>
+	The Automation Team
+</h4>
+<p>
+	The automation engineering team designs and builds our hardware at Hyphen. Our multidisciplinary team is responsible for equipment architecture, procurement, build, and commissioning of first of their kind automated kitchen equipment. We're a team of hardware engineers and machine builders with a history at some of the top technology companies like Apple, SpaceX, sweetgreen, Uber, Tesla, Wet Design and Cruise.
+</p>
+<h4>
+	Roles &amp; Responsibilities
+</h4>
+<ul>
+	<li>Design control panels for robotic food preparation equipment including full schematic and documentation package consistent with UL/ANSI/NFPA standards.</li><li>Create data management and communications network architecture and interface with cross-functional teams for product, processes and quality traceability control implementation.</li><li>Implement world class (ANSI/RIA/OSHA compliant) control reliable safety systems.</li><li>Support interactions with internal and third parties to obtain all required permits, machine safety buy-offs.</li><li>Manage electrical assembly activities of in house and outsourced resources for panel builds and field wiring.</li><li>Select and size electrical and electromechanical components such as motors, sensors, power supplies, and switch gear.</li><li>Train Maintenance and Production teams to support automated equipment after deployment into production.</li><li>Debug and optimize automated processes to maximize cycle time, improve availability and yield.</li><li>Expect domestic travel around 10%-15% to support the design and commissioning activities.</li>
+</ul>
+<h4>Minimum Qualifications</h4>
+<ul>
+	<li>BS/MS in EE/CS/CE/ME/IE or equivalent experience or other evidence of exceptional ability.</li><li>5+ years of experience designing capital equipment preferably in the industrial automation, robotics, packaging, or food processing industries.</li><li>Proficiency with process integration and electromechanical/mechatronic systems.</li><li>In-depth knowledge of Electrical Standards (NFPA, National Electric Code, UL).</li><li>In-depth understanding of Safety standards (UL/ANSI/OSHA).</li><li>Proficiency programming industrial equipment:<ul><li>Structure text PLCs (Beckhoff)</li><li>Safety PLCs (Beckhoff)</li><li>Field bus Networks (EtherCAT, Safety rated field bus networks)</li></ul></li><li>Ethernet communications between machine PLCs and database systems.</li><li>Proficiency in selecting appropriate circuit protectors, wire and cable, sensors, safety hardware, PLC hardware, remote I/O, VFD, and servo systems.</li><li>Proficiency in creating detailed electrical and fluid schematics in CAD (SolidWorks Electrical preferred).</li>
+</ul>
+<h4>Preferred Qualifications</h4>
+<ul>
+	<li>Experience consumer product design.</li><li>Experience with embedded system hardware and software design.</li><li>Experience with project management tools such as MS Project, Jira, etc.</li><li>Experience building products manufactured in large volumes.</li><li>Experience with developing equipment or products for regulated industries such as restaurant, medical, aerospace, or related industries.</li><li>A fast learner who can thrive in a fast-paced, often ambiguous, start-up environment.</li><li>Experience with procurement and supply chain management for control panel builds and control system components.</li><li>Strong team player with excellent verbal and written communication skills.</li><li>A foodie who once worked in hospitality</li>
+</ul>
+<h4>Benefits</h4>
+<ul>
+	<li>Competitive salary and equity.</li><li>Excellent health, dental, and vision insurance.</li><li>New laptop/equipment of your choice.</li><li>Flexible PTO.</li><li>Remote/onsite hybrid work schedule.</li>
+</ul>
+<p>We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+                                        </div>
+                                    
+                                                                            <a class="button button-job" href="https://docs.google.com/forms/d/e/1FAIpQLSctE-Emi-_QC-_GLySKipDp94QoS5cBKsWS30yVx08NR4PPcA/viewform?usp=pp_url&amp;entry_1114545742=Senior+Controls+Engineer%2C+Automation" target="_blank" rel="noopener">
+                                            <span class="h5">
+                                                Join Us
+                                            </span>
+                                        </a>
+                                    
+                                </div>
+
+                        
+                                                                                                                                            
+                                <div class="modal-content-item" data-modal-id="1152">
+
+                                    <div class="job-title h3">
+                                        Senior Mechanical&nbsp;Engineer
+                                    </div>
+
+                                    
+                                                                            <div class="job-description">
+                                            <h4>
+	The Automation Team
+</h4>
+<p>
+	The automation engineering team designs and builds our hardware at Hyphen. Our multidisciplinary team is responsible for equipment architecture, procurement, build, and commissioning of first of their kind automated kitchen equipment.
+</p>
+<h4>
+	Roles &amp; Responsibilities
+</h4>
+<ul>
+	<li>Develop (design, analyze, build, and test) automated food handling systems (e.g. dispensers, actuators, conveyors, etc.)</li><li>Own critical machine hardware/systems, each engineer is effectively the CEO for their subsystem.</li><li>Work with production and product to ensure successful delivery of hardware to customers.</li><li>Implement NSF 169 design standard for proprietary kitchen equipment</li><li>Generate superior production documentation.</li><li>Train Maintenance and Production teams to support automated equipment after deployment into production.</li><li>Debug and optimize automated processes to minimize cycle time, improve availability, and yield.</li><li>Expect domestic travel up to 15% to support the design and commissioning activities.</li>
+</ul>
+<h4>Minimum Qualifications</h4>
+<ul>
+	<li>8+ years of experience designing electromechanical systems that have shipped at scale.</li><li>Strong engineering fundamentals in materials and mechanics.</li><li>Superior 3D modeling, DFMA, and product data management skills.</li><li>Knowledge of design of plastic injection molded, sheet metal stamping and cast parts.</li><li>Experience managing third-party development partners, suppliers, and contractors.</li><li>BS in Mechanical Engineering or related field, or equivalent experience in field.</li>
+</ul>
+<h4>Preferred Qualifications</h4>
+<ul>
+	<li>FEA static/dynamic/thermal experience.</li><li>Consumer product design experience and designing products for scale.</li><li>A detail oriented personality with solid documentation and reporting skills.</li><li>Experience with food processing equipment.</li><li>Experience with developing equipment or products for regulated industries such as restaurant, medical, aerospace, or related industries.</li><li>A fast learner who can thrive in a fast-paced, often ambiguous, start-up environment.</li><li>Experience with procurement and supply chain management for custom and OEM components and tooling.</li><li>Strong team player with excellent verbal and written communication skills.</li>
+</ul>
+<h4>Benefits</h4>
+<ul>
+	<li>
+		Competitive salary and equity.
+	</li>
+	<li>
+		Excellent health, dental, and vision insurance.
+	</li>
+	<li>
+		New laptop/equipment of your choice.
+	</li><li>Flexible PTO.</li><li>Remote/onsite hybrid work schedule.</li>
+</ul>
+<p>We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+                                        </div>
+                                    
+                                                                            <a class="button button-job" href="https://docs.google.com/forms/d/e/1FAIpQLSctE-Emi-_QC-_GLySKipDp94QoS5cBKsWS30yVx08NR4PPcA/viewform?usp=pp_url&amp;entry_1114545742=Senior+Mechanical+Engineer%2C+Automation" target="_blank" rel="noopener">
+                                            <span class="h5">
+                                                Join Us
+                                            </span>
+                                        </a>
+                                    
+                                </div>
+
+                        
+                                                                                                                                            
+                                <div class="modal-content-item" data-modal-id="2880">
+
+                                    <div class="job-title h3">
+                                        Senior Embedded Systems&nbsp;Engineer
+                                    </div>
+
+                                    
+                                                                            <div class="job-description">
+                                            <h4>
+	The Automation Team
+</h4>
+<p>
+	The automation engineering team designs and builds our hardware at Hyphen. Our multidisciplinary team is responsible for equipment architecture, procurement, build, and commissioning of first of their kind automated kitchen equipment.
+</p>
+<h4>
+	Roles &amp; Responsibilities
+</h4>
+<ul>
+	<li>Develop (design, analyze, build, and test) distributed control components, sensors, motion control, and vision systems for robotic kitchen appliances.</li><li>Own critical machine hardware/sub-systems, each engineer is effectively the CTO for their subsystem.</li><li>Work with production and product to ensure successful delivery of hardware to customers.</li><li>Implement UL and other standards for proprietary electronic equipment</li><li>Generate superior production documentation.</li><li>Train Maintenance and Production teams to support automated equipment after deployment into production.</li><li>Debug and optimize automated processes to minimize cycle time, improve availability, and yield.</li><li>Work closely with cross functional stakeholders to scope, concept, plan and execute development activities.</li><li>Expect domestic travel up to 15% to support the design and commissioning activities.</li>
+</ul>
+<h4>Minimum Qualifications</h4>
+<ul>
+	<li>8+ years of experience designing embedded components that have shipped at scale.</li><li>5+ years developing production worthy firmware</li><li>BS in Electrical Engineering or related field, or equivalent experience in field.</li><li>Highly skilled at PCBA design, Altium preferred.</li><li>Experience in implementing low level hardware drivers (Current stack is C/C++)</li><li>Experience in defining, following, and implementing interfaces to higher level systems</li><li>Experience in controlling motors, homing sequences, and encoder setup and usage</li><li>Experience in interfacing with 24V industrial GPIO systems</li><li>Experience in designing robust and fault detecting systems</li><li>Experience obtaining UL listing for electronic components.</li><li>Experience managing third-party development partners, suppliers, and contractors.</li>
+</ul>
+<h4>Preferred Qualifications</h4>
+<ul>
+	<li>Consumer product or robotics design experience and designing products for scale.</li><li>Expert at rapidly de-risking and proving ideas through physical prototyping</li><li>Experience with networking communication protocols such as EtherCAT, modbus, serial and others.</li><li>A detail oriented personality with solid documentation and reporting skills.</li><li>Experience with consumer facing robotic products.</li><li>Experience with developing equipment or products for regulated industries such as restaurant, medical, aerospace, or related industries.</li><li>A fast learner who can thrive in a fast-paced, often ambiguous, start-up environment.</li><li>Experience with procurement and supply chain management for custom and OEM components and tooling.</li><li>Strong team player with excellent verbal and written communication skills.</li><li>Bonus points: you're a foodie who loves to cook or worked in hospitality</li>
+</ul>
+<h4>Benefits</h4>
+<ul>
+	<li>
+		Competitive salary and equity.
+	</li>
+	<li>
+		Excellent health, dental, and vision insurance.
+	</li>
+	<li>
+		New laptop/equipment of your choice.
+	</li><li>Flexible PTO.</li><li>Remote/onsite hybrid work schedule.</li>
+</ul>
+<p>We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+                                        </div>
+                                    
+                                                                            <a class="button button-job" href="https://docs.google.com/forms/d/e/1FAIpQLSctE-Emi-_QC-_GLySKipDp94QoS5cBKsWS30yVx08NR4PPcA/viewform?usp=pp_url&amp;entry_1114545742=Senior+Embedded+Engineer%2C+Automation" target="_blank" rel="noopener">
+                                            <span class="h5">
+                                                Join Us
+                                            </span>
+                                        </a>
+                                    
+                                </div>
+
+                        
+                                                                                                                                            
+                                <div class="modal-content-item" data-modal-id="1161">
+
+                                    <div class="job-title h3">
+                                        Senior Software Engineer / Product&nbsp;Development
+                                    </div>
+
+                                    
+                                                                            <div class="job-description">
+                                            <h4>What you'll do<br /></h4>
+<ul>
+	<li>Deploy code to production multiple times a day.</li><li>Build a suite of Human Machine Interfaces (HMI) that restaurant operators use to interact with our hardware systems.<br /></li><li>Build dynamic UIs for restaurant management, and for exploring live and historical machine operations, reliability, and performance data.</li><li>Build mobile applications for things like restaurant management, machine operations, and order processing.</li><li>Integrate with a variety of POS, KDS and other restaurant management systems.</li><li>Create public APIs that restaurant management vendors can use to build a rich ecosystem of products.</li><li>Work with our Controls Engineers to integrate our machine architecture (PLC) with our HMIs and cloud-based services.</li>
+</ul>
+<h4>Who you are</h4>
+<ul>
+	<li>You have 5+ years of experience in software development, working with some of the languages/frameworks that we use (Typescript, React, React Native, Go, C#, Python, GraphQL)</li><li>You have 1+ year(s) experience running production systems on a major cloud provider (we use AWS)</li><li>You're passionate about working on an early stage venture</li><li>You're interested in working across the entire stack, building out new features end-to-end</li><li>You enjoy working collaboratively with engineers of different disciplines (Mechanical, Controls, Software, etc.)</li><li>You have exposure to IoT and technologies like MQTT</li></ul>
+<h4>Benefits</h4>
+<ul>
+	<li>
+		Competitive salary and equity.
+	</li>
+	<li>
+		Excellent health, dental, and vision insurance.
+	</li>
+	<li>
+		New laptop/equipment of your choice.
+	</li><li>Unlimited PTO</li><li>100% remote</li>
+</ul>
+<p>We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+                                        </div>
+                                    
+                                                                            <a class="button button-job" href="https://docs.google.com/forms/d/e/1FAIpQLSctE-Emi-_QC-_GLySKipDp94QoS5cBKsWS30yVx08NR4PPcA/viewform?usp=pp_url&amp;entry_1114545742=Senior+Software+Engineer%2C+Product+Development" target="_blank" rel="noopener">
+                                            <span class="h5">
+                                                Join Us
+                                            </span>
+                                        </a>
+                                    
+                                </div>
+
+                        
+                                                                                                                                            
+                                <div class="modal-content-item" data-modal-id="1164">
+
+                                    <div class="job-title h3">
+                                        Senior Software Engineer / Developer&nbsp;Experience
+                                    </div>
+
+                                    
+                                                                            <div class="job-description">
+                                            <h4>What you'll do<br /></h4>
+<ul>
+	<li>Deploy code to production multiple times a day.</li><li>Build a suite of Human Machine Interfaces (HMI) that restaurant operators use to interact with our hardware systems.</li><li>Build dynamic UIs for restaurant management, and for exploring live and historical machine operations, reliability, and performance data.</li><li>Build mobile applications for things like restaurant management, machine operations, and order processing.</li><li>Integrate with a variety of POS, KDS and other restaurant management systems.</li><li>Create public APIs that restaurant management vendors can use to build a rich ecosystem of products.</li><li>Work with our Controls Engineers to integrate our machine architecture (PLC) with our HMIs and cloud-based services.</li>
+</ul>
+<h4>Who you are</h4>
+<ul>
+	<li>You have 5+ years of experience in software development, working with some of the languages/frameworks that we use (Typescript, React, React Native, Go, C#, Python, GraphQL)</li><li>You have 1+ year(s) experience running production systems on a major cloud provider (we use AWS)</li><li>You're passionate about working on an early stage venture</li><li>You're interested in working across the entire stack, building out new features end-to-end</li><li>You enjoy working collaboratively with engineers of different disciplines (Mechanical, Controls, Software, etc.)</li><li>You have exposure to IoT and technologies like MQTT</li></ul>
+<h4>Benefits</h4>
+<ul>
+	<li>
+		Competitive salary and equity</li>
+	<li>
+		Excellent health, dental, and vision insurance</li>
+	<li>
+		New laptop/equipment of your choice</li><li>Unlimited PTO</li><li>100% remote</li>
+</ul>
+<p>We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+                                        </div>
+                                    
+                                                                            <a class="button button-job" href="https://docs.google.com/forms/d/e/1FAIpQLSctE-Emi-_QC-_GLySKipDp94QoS5cBKsWS30yVx08NR4PPcA/viewform?usp=pp_url&amp;entry_1114545742=Senior+Software+Engineer%2C+Developer+Experience" target="_blank" rel="noopener">
+                                            <span class="h5">
+                                                Join Us
+                                            </span>
+                                        </a>
+                                    
+                                </div>
+
+                        
+                                                                                                                                            
+                                <div class="modal-content-item" data-modal-id="3214">
+
+                                    <div class="job-title h3">
+                                        Operations Manager
+                                    </div>
+
+                                    
+                                                                            <div class="job-description">
+                                            <h4>About Hyphen</h4>
+<p>Hyphen is a vertically integrated company that puts kitchen ops on autopilot with the use of software and robotics. We're a ~20 person team of operators, engineers, and creatives with previous experience working at Instacart, Uber, Sweetgreen, SpaceX, Tesla, Apple, and Cruise.</p>
+<h4>What you’ll do<br /></h4>
+<ul><li>Project manage Ops initiatives from conception through successful execution, collaborating with cross-functional internal team members, restaurant partners, and consultants.</li><li>Support both short and long term strategy &amp; planning initiatives by tracking key metrics, building financial models, and conducting data analysis as well as ad-hoc support for the CEO and leadership team.</li><li>Coordinate in-market launches by driving timely execution across cross-functional stakeholders and build best-in-class playbooks and operating procedures required for scalability.</li><li>Proactively identify opportunities to support the Operations team and improve current processes across functional areas, coordinating organizational procedures for optimized efficiency and productivity.</li><li>Develop a deep understanding of customer operations, needs, and pain points in order to glean key insights that will help drive product prioritization for both Automation and Product.</li><li>Assist in the development and evolution of Hyphen's pricing and monetization strategy.</li><li>Support investor relations and stakeholder communications by drafting internal and external business updates across key projects and financial performance.</li></ul>
+<h4>Who you are</h4>
+<ul><li>You have 2-5 years of experience in management consulting, investment banking, and/or at a fast-paced startup environment that demands strategic thinking, data analysis, organization, and collaborative communications.</li><li>Proven experience organizing and collaborating with multiple, cross-functional teams.</li><li>Excellent business acumen; understanding of a P&amp;L is a plus.</li><li>Analytical problem solver with advanced command of Excel and data analysis tools.</li><li>Proven ability to develop and optimize operational processes and structures that enable efficiencies and support rapid growth.</li><li>Proactive, hard-working, and resourceful in pushing progress forward and meeting accelerated timelines with minimal oversight.</li><li>Thrives in an entrepreneurial, fast-paced but thoughtful and feedback-rich environment.</li><li>Is a highly organized, creative, and analytical problem solver who loves challenging the status quo with a mindset of ‘how can we do this even better?’</li></ul>
+<h4>Why you might not be excited</h4>
+<ul><li>We are still a fairly young company with about 20 people, so if you like more established companies, this role isn’t for you. You'll help create our company's culture.</li><li>We're an early-stage startup. Projects and priorities are likely to shift.</li><li>This role will require some travel</li></ul>
+<h4>Benefits</h4>
+<ul><li>Competitive salary and equity.</li><li>Excellent health, dental, and vision insurance.</li><li>New laptop/equipment of your choice.</li></ul>
+<p><em><br />We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+                                        </div>
+                                    
+                                                                            <a class="button button-job" href="https://docs.google.com/forms/d/e/1FAIpQLSctE-Emi-_QC-_GLySKipDp94QoS5cBKsWS30yVx08NR4PPcA/viewform?usp=pp_url&amp;entry_1114545742=Operations+Manager" target="_blank" rel="noopener">
+                                            <span class="h5">
+                                                Apply Now
+                                            </span>
+                                        </a>
+                                    
+                                </div>
+
+                        
+                                                                                                                                            
+                                <div class="modal-content-item" data-modal-id="3232">
+
+                                    <div class="job-title h3">
+                                        Operations / Assembly Lead&nbsp;Technician
+                                    </div>
+
+                                    
+                                                                            <div class="job-description">
+                                            <h4>About Hyphen</h4>
+<p>Hyphen is a vertically integrated company that puts kitchen ops on autopilot with the use of software and robotics. We're a ~20 person team of operators, engineers, and creatives with previous experience working at Instacart, Uber, Sweetgreen, SpaceX, Tesla, Apple, and Cruise.</p>
+<h4>What we're looking for</h4>
+<p>An experienced automation technician to lead production assembly, integration, and testing of various mechanical and electrical assemblies to create the Hyphen platform. The operations lead will also support prototyping activities, general supply chain tasks, customer site installations and field service out of our San Jose facility.</p>
+<h4>What you’ll do</h4>
+<ul><li>Responsible for the assembly of complex automation equipment with purchased and fabricated components referencing assembly drawings and electrical schematics and in some cases only product BOM’s and CAD models.</li><li>Ability to safely and properly use power and hand tools for modification of various aluminum, steel and plastic components. Experience using drills, mills, lathes, saws and cut-off wheels. Wire and cable stripping, crimping and connector installation, drilling and taping of holes, etc.</li><li>Work with Engineering to redline BOM’s, mechanical drawings and electrical schematics as necessary. Actively contribute to lean initiatives to increase productivity and reduce costs. Work with Engineering to improve manufacturability of designs. Accurately documents, completes and reports required information for work records and reports.</li><li>Ensures all activities are done safely and follows procedures and guidelines when working in a production environment. Maintains a safe, organized and clean work area. Ensuring all equipment is calibrated in accordance with calibration schedule.</li><li>Based on business need, assists, supports and/or performs other job functions within department or other work area’s within scope and ability.</li><li>As a member of operations, support supply chain tasks such as receiving of goods into ERP and transacting to inventory, kitting of assemblies for build and general facility housekeeping.\</li><li>As a lead, plan daily tasks and serve as a resource to other team members and assist in training efforts.</li><li>Consults with other team members, internal departments and/or external vendors to resolve issues related to installation and service/repair.</li></ul>
+<h4>Who you are</h4>
+<ul><li>Proven experience in mechanical and electrical assembly, testing, troubleshooting and field service work.</li><li>Good working knowledge of controls systems and troubleshooting skills.</li><li>Intermediate use of computers and common software packages. Familiar navigating and viewing models in CAD. Familiar using ERP systems to log work and complete transactions.</li><li>Self-starter with effective planning and organization skills.</li><li>Detail orientated and can demonstrate the ability to maintain and work to a schedule.</li><li>Willing to work flexible hours, including weekends and evening hours as required.</li><li>A valid Driver License, a good driving record, and the ability to legally operate a company vehicle/or personal vehicle for company business.</li><li>Must be able to travel up to 30%.</li><li>Must be able to travel in support of training, out-of-state customers, and assist other divisions as required to support business demand.</li><li>Excellent technical aptitude, written and oral communication skills, and the ability to prioritize and deal effectively with people at all levels.</li></ul>
+<h4>Why you might not be excited</h4>
+<ul><li>We are still a fairly young company with about 20 people, so if you like more established companies, this role isn’t for you. You'll help create our company's culture.</li><li>We're an early-stage startup. Projects and priorities are likely to shift.</li><li>Everyone on the team is extremely mission-driven and works incredibly hard to push towards our lofty ambitions. Many people won’t be cut out for it.</li></ul>
+<h4>Benefits</h4>
+<ul><li>Competitive salary.</li><li>Excellent health, dental, and vision insurance.</li><li>Tools and equipment provided to do the job.</li></ul>
+<p><em>We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em><br /></p>
+                                        </div>
+                                    
+                                                                            <a class="button button-job" href="https://docs.google.com/forms/d/e/1FAIpQLSefXzy4SV4i_wNrkqc5GfcBTbNFlfXjycnRoE9zdcb6T5hfvA/viewform?usp=sf_link" target="_blank" rel="noopener">
+                                            <span class="h5">
+                                                Apply Now
+                                            </span>
+                                        </a>
+                                    
+                                </div>
+
+                        
+                    
+                </div>
+
+            </div>
+
+            <div class="about-modal-cover"></div>
+
+        </article>
+
+    
+        </main>
+
+        
+    
+
+    <footer class="core-footer" data-scroll-section>
+            
+        <a class="core-footer-logo-link override" href="https://usehyphen.com/#"  aria-label="Home">
+            <span class="core-footer-logo-desktop">
+                <svg width="150" height="24" viewBox="0 0 150 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M145.714 0V18.7886L132.377 0H128.572V24H132V5.21143L145.337 24H149.143V0H145.714ZM93.0858 13.2686V24H96.6858V15.3257C96.6858 13.9886 95.9658 13.2686 94.6287 13.2686H93.0858ZM93.0858 10.2171H94.6287C95.9658 10.2171 96.6858 9.49714 96.6858 8.16V0H93.0858V10.2171ZM79.7144 13.2686H78.1715C76.8344 13.2686 76.1144 13.9886 76.1144 15.3257V24H79.7144V13.2686ZM79.7144 10.2171V0H76.1144V8.16C76.1144 9.49714 76.8344 10.2171 78.1715 10.2171H79.7144ZM93.1887 10.1143H79.6115V13.3714H93.1887V10.1143ZM16.9714 13.2686V24H20.5715V15.3257C20.5715 13.9886 19.8515 13.2686 18.5143 13.2686H16.9714ZM16.9714 10.2171H18.5143C19.8515 10.2171 20.5715 9.49714 20.5715 8.16V0H16.9714V10.2171ZM3.6 13.2686H2.05715C0.720001 13.2686 0 13.9886 0 15.3257V24H3.6V13.2686ZM3.6 10.2171V0H0V8.16C0 9.49714 0.720001 10.2171 2.05715 10.2171H3.6ZM17.0743 10.1143H3.49715V13.3714H17.0743V10.1143ZM107.486 13.3714H120.514V10.1143H107.486V3.25714H121.714V0H104.057V24H121.886V20.7429H107.486V13.3714ZM62.0915 11.8286H54.8572V3.25714H62.0915C64.8001 3.25714 66.6858 5.00571 66.6858 7.57714C66.6858 10.1143 64.8001 11.8286 62.0915 11.8286ZM62.0915 0H51.4286V24H54.8572V15.0857H62.0915C66.8572 15.0857 70.1144 12.0343 70.1144 7.57714C70.1144 3.08571 66.8572 0 62.0915 0ZM36 11.6229L29.0057 0H25.0286L34.2858 14.9143V24H37.7143V14.9143L46.9715 0H42.9943L36 11.6229Z" fill="white"/>
+</svg>
+            </span>
+            <span class="core-footer-logo-mobile">
+                <svg width="112" height="18" viewBox="0 0 112 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M109.286 0V14.0914L99.283 0H96.4287V18H99.0001V3.90857L109.003 18H111.857V0H109.286ZM69.8144 9.95143V18H72.5144V11.4943C72.5144 10.4914 71.9744 9.95143 70.9715 9.95143H69.8144ZM69.8144 7.66286H70.9715C71.9744 7.66286 72.5144 7.12286 72.5144 6.12V0H69.8144V7.66286ZM59.7858 9.95143H58.6286C57.6258 9.95143 57.0858 10.4914 57.0858 11.4943V18H59.7858V9.95143ZM59.7858 7.66286V0H57.0858V6.12C57.0858 7.12286 57.6258 7.66286 58.6286 7.66286H59.7858ZM69.8915 7.58571H59.7086V10.0286H69.8915V7.58571ZM12.7286 9.95143V18H15.4286V11.4943C15.4286 10.4914 14.8886 9.95143 13.8857 9.95143H12.7286ZM12.7286 7.66286H13.8857C14.8886 7.66286 15.4286 7.12286 15.4286 6.12V0H12.7286V7.66286ZM2.7 9.95143H1.54286C0.540001 9.95143 0 10.4914 0 11.4943V18H2.7V9.95143ZM2.7 7.66286V0H0V6.12C0 7.12286 0.540001 7.66286 1.54286 7.66286H2.7ZM12.8057 7.58571H2.62286V10.0286H12.8057V7.58571ZM80.6144 10.0286H90.3858V7.58571H80.6144V2.44286H91.2858V0H78.0429V18H91.4144V15.5571H80.6144V10.0286ZM46.5686 8.87143H41.1429V2.44286H46.5686C48.6001 2.44286 50.0143 3.75429 50.0143 5.68286C50.0143 7.58571 48.6001 8.87143 46.5686 8.87143ZM46.5686 0H38.5715V18H41.1429V11.3143H46.5686C50.1429 11.3143 52.5858 9.02571 52.5858 5.68286C52.5858 2.31429 50.1429 0 46.5686 0ZM27 8.71714L21.7543 0H18.7715L25.7143 11.1857V18H28.2857V11.1857L35.2286 0H32.2458L27 8.71714Z" fill="white"/>
+</svg>
+            </span>
+        </a>
+        
+        <nav class="core-footer-nav">
+            <ul class="footer-nav-list">
+
+                
+                
+                                                                                                                                            
+                    <li class="footer-nav-item col-1 " style="--order: 1;">
+                                                    <a class="override" href="https://usehyphen.com/#makeline">
+                                Makeline
+                            </a>
+                                            </li>
+                    
+                
+                                                                                                                                            
+                    <li class="footer-nav-item col-2 " style="--order: 4;">
+                                                    <a class="override" href="https://usehyphen.com/about#careers">
+                                Careers
+                            </a>
+                                            </li>
+                    
+                
+                                                                                                                                            
+                    <li class="footer-nav-item col-1 " style="--order: 2;">
+                                                    <a class="override" href="https://usehyphen.com/specs#">
+                                Specs
+                            </a>
+                                            </li>
+                    
+                
+                                                                                                                                            
+                    <li class="footer-nav-item col-2 " style="--order: 5;">
+                                                    <a class="override" href="https://hyphen.docsend.com/view/s/wqe7ffzj927qsh9g" data-router-disabled>
+                                Media Kit
+                            </a>
+                                            </li>
+                    
+                
+                                                                                                                                            
+                    <li class="footer-nav-item col-1 last-row" style="--order: 3;">
+                                                    <a class="override" href="https://usehyphen.com/about#">
+                                About
+                            </a>
+                                            </li>
+                    
+                
+                                                                                                                                            
+                    <li class="footer-nav-item col-2 last-row" style="--order: 6;">
+                                                    <a class="override" href="https://usehyphen.com/#contact">
+                                Contact
+                            </a>
+                                            </li>
+                    
+                
+            </ul>
+
+            <ul class="footer-nav-list-social">
+
+                <li class="footer-nav-item col-3">
+                    <a class="override" href="https://medium.com/usehyphen" aria-label="Visit us on Medium" title="Medium" target="_blank" rel="noopener">
+                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.7 11.6996c.1.1.2.3.2.5v7c.1.3 0 .5-.2.7l-1.7 2v.3h4.7v-.3l-1.7-2c-.1-.2-.2-.4-.2-.7v-6.1l4.2 9.1h.4l3.6-9.1v7.3c0 .2 0 .3-.1.4l-1.3 1.3v.3h6.3v-.3l-1.2-1.2c-.1-.1-.1-.3-.1-.4v-9c-.1-.2 0-.3.1-.4l1.3-1.2v-.3h-4.4l-3.2 7.9-3.6-7.9H8.2v.3l1.5 1.8z" fill="#fff"/></svg>                    </a>
+                </li>
+                
+                <li class="footer-nav-item col-3">
+                    <a class="override" href="https://twitter.com/gethyphen" aria-label="Visit us on Twitter" title="Twitter" target="_blank" rel="noopener">
+                        <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M22.1 11.5c.7-.1 1.3-.2 1.9-.5-.4.7-1 1.3-1.7 1.7.2 4.7-3.2 9.8-9.3 9.8-1.8 0-3.5-.6-5-1.5 1.7.2 3.5-.3 4.7-1.2-1.5 0-2.7-1-3.1-2.3.5.1 1 0 1.5-.1-1.5-.4-2.6-1.8-2.6-3.3.5.2 1 .4 1.5.4-1.4-1-1.9-2.9-1-4.4 1.7 2 4.1 3.3 6.8 3.4-.5-2 1.1-4 3.2-4 .9 0 1.8.4 2.4 1 .8-.2 1.5-.4 2.1-.8-.2.8-.7 1.4-1.4 1.8z" fill="#fff"/></svg>                    </a>
+                </li>
+                
+                <li class="footer-nav-item col-3">
+                    <a class="override" href="https://www.linkedin.com/company/use-hyphen/" aria-label="Visit us on LinkedIn" title="LinkedIn" target="_blank" rel="noopener">
+                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.2 22.2002v-10.7h3.4v10.7H8.2z" fill="#fff"/><path d="M9.9 10.0002c-1.1 0-1.9-.8-1.9-1.9 0-1.1.9-1.9 1.9-1.9 1.1 0 1.9.8 1.9 1.9 0 1.1-.8 1.9-1.9 1.9z" fill="#fff"/><path d="M23.8 22.2002h-3.2v-5.8c0-1.7-.7-2.2-1.7-2.2s-2 .8-2 2.3v5.7h-3.4v-10.7h3.2v1.5c.3-.7 1.5-1.8 3.2-1.8 1.9 0 3.9 1.1 3.9 4.4v6.6z" fill="#fff"/></svg>                    </a>
+                </li>
+
+            </ul>
+        </nav>
+
+        <div class="copyright">
+            Copyright &copy; Hyphen 2023
+
+            <a class="override" href="/privacy-policy" data-router-disabled>Privacy Policy</a>
+            <a class="override" href="/terms-of-use" data-router-disabled>Terms of Use</a>
+            <a class="override" href="/disclaimer" data-router-disabled>Disclaimer</a>
+        </div>
+
+    </footer>
+
+
+    </div>
+
+    
+
+        <script src="/js/site.js?id=cc5d477c1a08c4fd464a"></script>
+
+        <!-- Start of HubSpot Embed Code -->
+        <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/21862211.js"></script>
+        <!-- End of HubSpot Embed Code -->
+
+    <script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"copyrightYear":"2021","creator":{"@id":"#creator"},"dateModified":"2022-03-18T11:54:46-07:00","datePublished":"2021-04-21T15:38:00-07:00","description":"Hyphen is an automated makeline designed to increase efficiency in the kitchen with less errors and lower costs.","headline":"About","image":{"@type":"ImageObject","url":"https://usehyphen.com/assets/imager/images/3885/social_share_cover_v3_cb1826fb2fb0eb7552d7bb53b85ea0f3.png?mtime=1628686535"},"inLanguage":"en-us","mainEntityOfPage":"https://usehyphen.com/about","name":"About","publisher":{"@id":"#creator"},"url":"https://usehyphen.com/about"},{"@id":"#identity","@type":"Organization"},{"@id":"https://vanholtz.co#creator","@type":"LocalBusiness","address":{"@type":"PostalAddress","addressCountry":"US"},"alternateName":"Van Holtz Co","description":"Studio of Eric Van Holtz. Specializing in refined digital web experiences with a focus on animated, responsive, and interactive content.","name":"Van Holtz, LLC","priceRange":"$","url":"https://vanholtz.co"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://usehyphen.com","name":"Home","position":1},{"@type":"ListItem","item":"https://usehyphen.com/about","name":"About","position":2}],"name":"Breadcrumbs"}]}</script></body>
+
+</html>
+
+    
